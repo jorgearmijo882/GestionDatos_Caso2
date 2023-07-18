@@ -1,4 +1,4 @@
-Caso 1: Análisis exploratorio de datos (EDA) en un conjunto de datos de ventas.
+Caso 2: Análisis exploratorio de datos (EDA) en un conjunto de datos de ventas.
 
 Descripción: Tienes un conjunto de datos de ventas que contiene información sobre productos vendidos, fechas, precios y ubicaciones.
 
