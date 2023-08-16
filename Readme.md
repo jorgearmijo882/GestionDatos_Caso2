@@ -1,8 +1,5 @@
 Caso 2: Análisis exploratorio de datos (EDA) en un conjunto de datos de ventas.
 
-Se crea el programa para realizar el análisis de los datos generados con la impresión de los datos analizados determinado las relaciones ente el precio y cantidad de la venta realizada por cada uno cantidad de ventas realizadas en cada uno de los puntos de venta, tendencia de ventas en el tiempo, variación de precios por cada producto. 
-
-
 La Gerencia de una de las principales cadenas de supermercados de la ciudad de Quito requiere realizar un análisis exploratorio de las ventas realizadas en los puntos establecidos en el Norte, Centro, Sur, Valle de los Chillos y Cumbayá, el análisis esta focalizado en poder identificar la cantidad de venta que se realiza en cada uno de los puntos de venta, así como los precios que se recaudan por cada uno de ellos. 
 La Gerencia del Banco ha solicitado al científico de datos en conjunto con el analista de datos se realice un análisis de las ventas realizadas, las formas de pago, los productos con mayor venta y la tendencia en el tiempo en consumo de cada uno de ellos. 
 
@@ -11,4 +8,3 @@ De forma complementaria se debe generar un programa en Python que simule la crea
 Para la solución del caso se puede hacer uso de librerías de Python como: 
 Solución:
 Se crea el programa para la generación de los datos aleatorios en base a los parámetros indicados. 
-
